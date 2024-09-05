@@ -51,6 +51,6 @@ public class Application {
             }
         }
 
-        petRepository.saveAll(pets);
+        //petRepository.saveAll(pets);
     }
 }
